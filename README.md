@@ -1,46 +1,55 @@
-# Hi there, I'm mchave3! 👋
+# Hi there, I'm Mickaël CHAVE! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in web development, open-source contributions, and learning new technologies.
+Welcome to my GitHub profile! I'm a Workplace Administrator specializing in MECM (SCCM) and Intune, passionate about automation and system management.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced JavaScript and TypeScript
-- 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about web development, Python, and cloud technologies
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
-- ⚡ Fun fact: I love hiking and photography
+- 💼 Working as a Workplace Administrator with MECM/Intune
+- 🔧 Specialized in PowerShell automation and endpoint management
+- 📚 Microsoft Certified: Azure Solutions Architect & Administrator
+- 💬 Ask me about Windows administration, PowerShell scripting, and MDM solutions
+
+## 🎓 Certifications
+
+### ☁️ Azure Cloud
+- ![Microsoft](https://img.shields.io/badge/-Microsoft-666666?logo=microsoft&logoColor=white&style=flat) Azure Solutions Architect Expert (AZ-305)
+- ![Microsoft](https://img.shields.io/badge/-Microsoft-666666?logo=microsoft&logoColor=white&style=flat) Azure Administrator Associate (AZ-104)
+- ![Microsoft](https://img.shields.io/badge/-Microsoft-666666?logo=microsoft&logoColor=white&style=flat) Azure Fundamentals (AZ-900)
+
+### 💻 Endpoint Management
+- ![Microsoft](https://img.shields.io/badge/-Microsoft-666666?logo=microsoft&logoColor=white&style=flat) Endpoint Administrator (MD-102)
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![Microsoft](https://img.shields.io/badge/-Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+## 💻 Core Competencies
+
+- 🔐 Endpoint Management (MECM/SCCM, Intune)
+- 📜 PowerShell Scripting & Automation
+- 🚀 Application Deployment
+- 🛡️ Security Compliance & Monitoring
+- ☁️ Cloud Administration
+- 🔄 CI/CD for Infrastructure
 
 ## 📈 GitHub Stats
 
 ![mchave3's GitHub stats](https://github-readme-stats.vercel.app/api?username=mchave3&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchave3&layout=compact&theme=radical)
 
-## 📂 Projects
+## 📂 Featured Projects
 
-Here are some of my recent projects:
-
-### [Project 1: Awesome Web App](https://github.com/mchave3/awesome-web-app)
-A web application built with React and Node.js that helps users manage their tasks efficiently.
-
-### [Project 2: Python Data Analysis](https://github.com/mchave3/python-data-analysis)
-A collection of Python scripts and Jupyter notebooks for data analysis and visualization.
-
-### [Project 3: Dockerized Microservices](https://github.com/mchave3/dockerized-microservices)
-A set of microservices containerized using Docker and orchestrated with Docker Compose.
+### PowerShell Automation Scripts
+- 🔄 MECM Application Deployment Automations
+- 📊 System Inventory Reports
+- 🔧 Endpoint Configuration Management Tools
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mchave3)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mickaël-chave-5301ba15b/)
 
-Thanks for visiting my profile! 😊
+Feel free to explore my repositories and don't hesitate to reach out! 👨‍💻
